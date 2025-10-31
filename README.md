@@ -25,7 +25,7 @@ nvm use 16.13.0
 3. Install `yarn`
 
 ```
-npm install yarn -g
+npm install yarn -y
 ```
 
 4. Install dependencies
